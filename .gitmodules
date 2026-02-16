@@ -1,0 +1,3 @@
+[submodule "meu-projecte"]
+	path = meu-projecte
+	url = https://github.com/raq1409/meu-projecte.git
